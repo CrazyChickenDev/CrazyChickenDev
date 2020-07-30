@@ -26,10 +26,12 @@ src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_ic
 
 <p align="center">
 <a href="https://codepen.io/crazychickendev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="crazychickendev" height="22" width="22" /></a>
+<a href="https://wa.me/08022273025" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" alt="crazychickendev" height="22" width="22" /></a>
 <a href="https://dev.to/crazychickendev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="crazychickendev" height="22" width="22" /></a>
 <a href="https://twitter.com/crazychickendev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="crazychickendev" height="22" width="22" /></a>
 <a href="https://linkedin.com/in/nwaobi-daniel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nwaobi-daniel" height="22" width="22" /></a>
 <a href="https://stackoverflow.com/users/nwaobi-daniel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="nwaobi-daniel" height="22" width="22" /></a>
 <a href="https://www.reddit.com/user/dannychukz15/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" alt="nwaobi-daniel" height="22" width="22" /></a>
+<a href="https://t.me/CrazyChickenDev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="crazychickendev" height="22" width="22" /></a>
 <a href="https://instagram.com/crazychickendev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="crazychickendev" height="22" width="22" /></a>
 </p>
