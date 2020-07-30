@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋, I'm CrazyChickenDev</h1>
+<h1 align="center">Hey! 👋, I'm CrazyChickenDev :hatched_chick:</h1>
 <h3 align="center">A Computer Software Engineer, Web Developer and Open-source enthusiast from Nigeria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crazychickendev" alt="crazychickendev" /> </p>
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any interesting project on IoT**
 
-- 🤔 I’m looking for help with **AI, Data Structures and Algorithms**
+- 🤔 I’m looking for help with **AI, Data Structures and Algorithms :tired_face:**
 
 - 👨‍💻 All of my projects are available at [my portfolio](www.nwaobidaniel.me):man_technologist:
 
