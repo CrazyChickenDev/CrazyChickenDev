@@ -1,5 +1,6 @@
 <h1 align="left">Hey! 👋, I'm CrazyChickenDev!:hatched_chick:</h1>
-# A Computer Software Engineer, Web Developer, Open-source enthusiast and a Student and I'm from Nigeria
+
+<h3 align="left">A Computer Software Engineer, Web Developer, Open-source enthusiast and a Student and I'm from Nigeria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crazychickendev" alt="crazychickendev" /> </p>
 
