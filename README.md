@@ -11,7 +11,7 @@
 
 - 🤔 I’m looking for help with **AI, Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [[my website](www.nwaobidaniel.me/):man_technologist:]([my website](www.nwaobidaniel.me/):man_technologist:)
+- 👨‍💻 All of my projects are available at [my portfolio](www.nwaobidaniel.me):man_technologist:
 
 - 📝 I regulary write articles on [www.nwaobidaniel.me](www.nwaobidaniel.me)
 
