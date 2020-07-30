@@ -13,11 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [my portfolio](www.nwaobidaniel.me):man_technologist:
 
-- 📝 I regulary write articles on [www.nwaobidaniel.me](www.nwaobidaniel.me)
-
 - 💬 Ask me about **Gadgets, JavaScript, Embedded Systems, Robots and Cyber-Security**
 
-- 📫 You can reach me **[here](dannychukz15@gmail.com):mailbox_with_no_mail:**
+- 📫 You can reach me **[here](dannychukz15@gmail.com)**
 
 - ⚡ Fun fact **I'm actually crazy:rofl:**
 
