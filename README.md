@@ -1,4 +1,4 @@
-<h1 align="left">Hey! 👋, I'm [CrazyChickenDev](http://nwaobidaniel.me/) :hatched_chick:</h1>
+<h1 align="left">Hey! 👋, I'm CrazyChickenDev!:hatched_chick:</h1>
 <h3 align="left">A Computer Software Engineer, Web Developer and Open-source enthusiast from Nigeria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crazychickendev" alt="crazychickendev" /> </p>
