@@ -25,6 +25,8 @@
 src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&count_private=true&theme=great-gatsby" alt="crazychickendev"/></p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&theme=great-gatsby&layout=compact" alt="crazychickendev"/> </p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+
 <p align="center">
 <a href="https://codepen.io/crazychickendev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="crazychickendev" height="22" width="22" /></a>
 <a href="https://wa.me/08022273025" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" alt="crazychickendev" height="22" width="22" /></a>
