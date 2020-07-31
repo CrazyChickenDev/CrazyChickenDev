@@ -25,14 +25,14 @@ src="https://img.shields.io/twitter/follow/crazychickendev?label=Follow%20me&sty
 
 - ⚡ Fun fact **I'm actually crazy:rofl:**
 
-# Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/></p><p align="left"> <img
 src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&count_private=true&theme=shades-of-purple" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&theme=shades-of-purple&layout=compact" alt="crazychickendev"/> </p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-# I'm currently listening to
+<h3 align="left">I'm currently listening to</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
