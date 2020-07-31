@@ -1,6 +1,6 @@
 <h1 align="left">Hey! 👋, I'm CrazyChickenDev!:hatched_chick:</h1>
 
-<h3 align="left">A Computer Software Engineer, Web Developer, Open-source enthusiast and a Student and I'm from Nigeria.</h3>
+<h3 align="left"> I like writing shitty codes:upside_down_face:. I'm a Computer Software Engineer, Web Developer, Open-source enthusiast and a Student from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crazychickendev" alt="crazychickendev" /> <img 
 src="https://img.shields.io/github/followers/crazychickendev?style=social" alt="crazychickendev" /> <img 
