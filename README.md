@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://tenor.com/view/disney-moana-hei-hei-chicken-rooster-gif-15764990"/>
+<img align="center" src="https://tenor.com/view/disney-moana-hei-hei-chicken-rooster-gif-15764990"/>
 <h1 align="center">Hey!👋, I'm CrazyChickenDev!:hatched_chick: </h1>
 <h4 align="center"> I like writing shitty codes:shit:. I'm a Computer Software Engineer, Web Developer, Open-source Enthusiast and a Student from Nigeria</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=crazychickendev" alt="crazychickendev" /> <img 
