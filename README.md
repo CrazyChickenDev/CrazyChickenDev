@@ -3,7 +3,7 @@
 <h3 align="left">A Computer Software Engineer, Web Developer, Open-source enthusiast and a Student and I'm from Nigeria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crazychickendev" alt="crazychickendev" /> <img 
-src="https://img.shields.io/badge/crazy-chickendev-yellow" alt="crazychickendev" /> </p>
+src="https://img.shields.io/twitter/follow/crazychickendev?label=Follow%20me&style=social" alt="crazychickendev" /> </p>
 
 - 🔭 I’m currently working on [making the world a better place...:smiling_imp:](www.nwaobidaniel.me)
 
@@ -23,8 +23,7 @@ src="https://img.shields.io/badge/crazy-chickendev-yellow" alt="crazychickendev"
 
 # Languages and Tools:
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="left"> <img
-src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&count_private=true&theme=shades-of-purple" alt="crazychickendev"/></p>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&theme=shades-of-purple&layout=compact" alt="crazychickendev"/> </p>
+src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&count_private=true&theme=shades-of-purple" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&theme=shades-of-purple&layout=compact" alt="crazychickendev"/> </p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
