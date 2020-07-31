@@ -2,8 +2,8 @@
 
 <h3 align="left">A Computer Software Engineer, Web Developer, Open-source enthusiast and a Student and I'm from Nigeria.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crazychickendev" alt="crazychickendev" /> <img 
-src="https://img.shields.io/badge/crazy-chickendev-orange" alt="crazychickendev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=crazychickendev-yellow" alt="crazychickendev" /> <img 
+src="https://img.shields.io/badge/crazy-chickendev-yellow" alt="crazychickendev" /> </p>
 
 - 🔭 I’m currently working on [making the world a better place...:smiling_imp:](www.nwaobidaniel.me)
 
