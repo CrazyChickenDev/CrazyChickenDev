@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/tenor.gif" /> </p>
-<h1 align="center">Hey!👋, I'm CrazyChickenDev!:hatched_chick: </h1>
-<h4 align="center"> I like writing shitty codes:shit:. I'm a Computer Software Engineer, Web Developer, Open-source Enthusiast and a Student from Nigeria</h4>
+<h1 align="center">Ullo!👋, I'm CrazyChickenDev!</h1>
+<h4 align="center">I'm a Computer Software Engineer, Open-source Enthusiast and a Student from Nigeria. I'm currently learning front-end web development:sleepy: and i have a kin interest for hacking:thinking: lol</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=crazychickendev" alt="crazychickendev" /> <img 
 src="https://img.shields.io/github/followers/crazychickendev?style=social" alt="crazychickendev" /> <img 
 src="https://img.shields.io/github/last-commit/crazychickendev/CrazyChickenDev" alt="crazychickendev" /> <img
@@ -14,9 +14,9 @@ src="https://img.shields.io/twitter/follow/crazychickendev?label=Follow%20me&sty
 
 - 🤔 I’m looking for help with **AI, Data Structures and Algorithms :tired_face:**
 
-- 👨‍💻 All of my projects are available at [my portfolio](www.nwaobidaniel.me):man_technologist:
+- 👨‍💻 All of my projects are available at [my portfolio](www.nwaobidaniel.me)
 
-- 💬 Ask me about **Gadgets, JavaScript, Embedded Systems, Robots and Cyber-Security**
+- 💬 Ask me about **Gadgets, Android Rom Development, JavaScript, Embedded Systems, Robotics and Cyber-Security**
 
 - 📫 You can reach me **[here](dannychukz15@gmail.com)**
 
