@@ -1,4 +1,4 @@
-![CrazyChickenDev](https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/tenor.gif)
+<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/tenor.gif" /> </p>
 <h1 align="center">Hey!👋, I'm CrazyChickenDev!:hatched_chick: </h1>
 <h4 align="center"> I like writing shitty codes:shit:. I'm a Computer Software Engineer, Web Developer, Open-source Enthusiast and a Student from Nigeria</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=crazychickendev" alt="crazychickendev" /> <img 
