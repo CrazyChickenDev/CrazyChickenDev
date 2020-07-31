@@ -1,0 +1,16 @@
+name: crazychickendev Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: CrazyChickenDev/README.md@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.fe89d65b-2543-4d23-87be-76b31b2ba654 }}
+          GH_TOKEN: ${{ secrets.1f830c7019f0aa8a52910ae150264af7a076847f }}
