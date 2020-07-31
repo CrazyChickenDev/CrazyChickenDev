@@ -1,5 +1,3 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 <h1 align="left">Hey! 👋, I'm CrazyChickenDev!:hatched_chick:</h1>
 
 <h3 align="left"> I like writing shitty codes:shit:. I'm a Computer Software Engineer, Web Developer, Open-source Enthusiast and a Student from Nigeria</h3>
