@@ -20,3 +20,4 @@ jobs:
           SHOW_LINES_OF_CODE: "true"
           SHOW_COMMIT: "true"
           SHOW_LANGUAGE: "true"
+          SHOW_EDITORS: "true"
