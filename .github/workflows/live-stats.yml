@@ -19,3 +19,4 @@ jobs:
           SHOW_PROJECTS: "False" 
           SHOW_LINES_OF_CODE: "true"
           SHOW_COMMIT: "true"
+          SHOW_LANGUAGE: "true"
