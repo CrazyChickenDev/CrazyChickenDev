@@ -1,3 +1,5 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <h1 align="left">Hey! 👋, I'm CrazyChickenDev!:hatched_chick:</h1>
 
 <h3 align="left"> I like writing shitty codes:shit:. I'm a Computer Software Engineer, Web Developer, Open-source Enthusiast and a Student from Nigeria</h3>
@@ -26,9 +28,6 @@ src="https://img.shields.io/twitter/follow/crazychickendev?label=Follow%20me&sty
 # Languages and Tools:
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/></p><p align="left"> <img
 src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&count_private=true&theme=shades-of-purple" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&theme=shades-of-purple&layout=compact" alt="crazychickendev"/> </p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 # I'm currently listening to
 
