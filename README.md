@@ -28,9 +28,6 @@ src="https://img.shields.io/twitter/follow/crazychickendev?label=Follow%20me&sty
 src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&count_private=true&theme=shades-of-purple" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&theme=shades-of-purple&layout=compact" alt="crazychickendev"/> </p>
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 <h3 align="left">I'm currently listening to</h3>
