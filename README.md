@@ -1,7 +1,6 @@
+<img align="center" alt="GIF" src="https://tenor.com/bejmc.gif"/>
 <h1 align="center">Hey!👋, I'm CrazyChickenDev!:hatched_chick: </h1>
-
 <h4 align="center"> I like writing shitty codes:shit:. I'm a Computer Software Engineer, Web Developer, Open-source Enthusiast and a Student from Nigeria</h4>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=crazychickendev" alt="crazychickendev" /> <img 
 src="https://img.shields.io/github/followers/crazychickendev?style=social" alt="crazychickendev" /> <img 
 src="https://img.shields.io/github/last-commit/crazychickendev/CrazyChickenDev" alt="crazychickendev" /> <img
