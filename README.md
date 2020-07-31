@@ -2,7 +2,8 @@
 
 <h3 align="left"> I like writing shitty codes:shit:. I'm a Computer Software Engineer, Web Developer, Open-source Enthusiast and a Student from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crazychickendev" alt="crazychickendev" /> <img 
+<p align="left"> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img 
+src="https://komarev.com/ghpvc/?username=crazychickendev" alt="crazychickendev" /> <img 
 src="https://img.shields.io/github/followers/crazychickendev?style=social" alt="crazychickendev" /> <img 
 src="https://img.shields.io/github/last-commit/crazychickendev/CrazyChickenDev" alt="crazychickendev" /> <img
 src="https://img.shields.io/twitter/follow/crazychickendev?label=Follow%20me&style=social" alt="crazychickendev" /> </p>
