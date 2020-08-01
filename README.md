@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/tenor.gif" /> </p>
-<h1 align="center">Ullo👋, I'm CrazyChickenDev!</h1>
+<h1 align="center">Hey👋, I'm CrazyChickenDev!</h1>
 <h4 align="center">I'm a Computer Software Engineer, Open-source Enthusiast and a Student from Nigeria. I'm currently learning front-end web development:sleepy: and i have a kin interest for hacking:thinking: lol</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=crazychickendev" alt="crazychickendev" /> <img 
 src="https://img.shields.io/github/followers/crazychickendev?style=social" alt="crazychickendev" /> <img 
