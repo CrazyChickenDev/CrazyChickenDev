@@ -14,5 +14,3 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          USERNAME: crazychickendev
-          SHOW_LINES_OF_CODE: "true"
