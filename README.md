@@ -35,7 +35,7 @@ JSON         6 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&count_private=true&theme=vue" alt="crazychickendev"/></p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&theme=vue&layout=compact" alt="crazychickendev"/> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&count_private=true&theme=vue" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&theme=vue&layout=compact" alt="crazychickendev"/> </p>
 <h3 align="center">I'm currently listening to</h3>
 <p align=center> <img src="https://spotify-github-profile.vercel.app/api/view?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true" alt="spotify"/></p>
 
