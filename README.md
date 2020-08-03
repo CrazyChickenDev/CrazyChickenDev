@@ -24,17 +24,8 @@ src="https://img.shields.io/twitter/follow/crazychickendev?label=Follow%20me&sty
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/></p> 
-
 <!--START_SECTION:waka-->
-```text
-HTML         1 hr 17 mins    █████████░░░░░░░░░░░░░░░░   36.75 % 
-Markdown     58 mins         ███████░░░░░░░░░░░░░░░░░░   27.99 % 
-JavaScript   58 mins         ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-Other        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-```
 <!--END_SECTION:waka-->
-
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&count_private=true&theme=vue" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&theme=vue&layout=compact" alt="crazychickendev"/> </p>
 <h3 align="center">I'm currently listening to</h3>
 <p align=center> <img src="https://spotify-github-profile.vercel.app/api/view?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true" alt="spotify"/></p>
