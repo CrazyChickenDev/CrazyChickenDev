@@ -15,5 +15,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           USERNAME: crazychickendev
-          SHOW_OS: "true"
           SHOW_LINES_OF_CODE: "true"
