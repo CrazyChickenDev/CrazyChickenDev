@@ -27,6 +27,13 @@ src="https://img.shields.io/twitter/follow/crazychickendev?label=Follow%20me&sty
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&count_private=true&theme=vue" alt="crazychickendev"/></p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&theme=vue&layout=compact" alt="crazychickendev"/> </p>
 
 <!--START_SECTION:waka-->
+```text
+HTML         1 hr 17 mins    █████████░░░░░░░░░░░░░░░░   36.75 % 
+Markdown     58 mins         ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+JavaScript   58 mins         ███████░░░░░░░░░░░░░░░░░░   27.70 % 
+Other        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+```
 <!--END_SECTION:waka-->
 
 <h3 align="center">I'm currently listening to</h3>
