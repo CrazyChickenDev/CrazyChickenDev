@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/tenor.gif" /> </p>
 <h1 align="center">Hey👋, I'm CrazyChickenDev!</h1>
-<h4 align="center">I'm a Computer Software Engineer, Open-source Enthusiast and a Student from Nigeria. I'm currently learning front-end web development:sleepy: and i have a kin interest for hacking:thinking: lol</h4>
+<h4 align="center">I love breaking stuffs! I'm a Computer Software Engineer, Security Researcher, an aspiring Red-Teamer, CyberSecurity and Open-source Enthusiast and a Student from Nigeria. I'm currently learning front-end web development:sleepy: and i have a kin interest for hacking:thinking: especially offensive security..lol</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=crazychickendev" alt="crazychickendev" /> <img 
 src="https://img.shields.io/github/followers/crazychickendev?style=social" alt="crazychickendev" /> <img 
 src="https://img.shields.io/github/last-commit/crazychickendev/CrazyChickenDev" alt="crazychickendev" /> <img
@@ -8,11 +8,11 @@ src="https://img.shields.io/twitter/follow/crazychickendev?label=Follow%20me&sty
 
 - 🔭 I’m currently working on [making the world a better place...:smiling_imp:](www.nwaobidaniel.me)
 
-- 🌱 I’m currently learning **Node.js and DevOps with Azure**
+- 🌱 I’m currently learning **React, Node.Js and DevOps with Azure**
 
 - 👯 I’m looking to collaborate on **any interesting project on IoT**
 
-- 🤔 I’m looking for help with **AI, Data Structures and Algorithms :tired_face:**
+- 🤔 I’m looking for help with **Pentesting and Security Research Techniques:tired_face:**
 
 - 👨‍💻 All of my projects are available at [my portfolio](www.nwaobidaniel.me)
 
