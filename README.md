@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/tenor.gif" /> </p>
+<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/CrazyChickenDev.mp4" /> </p>
 <h1 align="center">Hey👋, I'm CrazyChickenDev!</h1>
 <h4 align="center">I love breaking into stuffs! I'm a Computer Software Engineer, Security Researcher, an aspiring Red-Teamer, CyberSecurity and Open-source Enthusiast and a Student from Nigeria. I'm currently learning front-end web development:sleepy: and i have a kin interest for hacking:thinking: especially offensive security..lol</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=crazychickendev" alt="crazychickendev" /> <img 
