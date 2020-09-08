@@ -27,7 +27,7 @@ src="https://img.shields.io/twitter/follow/crazychickendev?label=Follow%20me&sty
 <!--END_SECTION:waka-->
 <p align="left" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&count_private=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&layout=compact&show_icons=true&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&hide_title=true" alt="crazychickendev"/> </p>
 <h3 align="center">I'm currently listening to</h3>
-<p align=center> <img src="https://spotify-github-profile.vercel.app/api/view?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true" alt="spotify"/></p>
+<p align="center" height='130px'> <img src="https://spotify-github-profile.vercel.app/api/view?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true" alt="spotify"/></p>
 
 <p align="center">
 <a href="https://codepen.io/crazychickendev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="crazychickendev" height="22" width="22" /></a>
