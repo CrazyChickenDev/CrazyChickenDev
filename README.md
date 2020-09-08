@@ -5,7 +5,7 @@ src="https://img.shields.io/github/followers/crazychickendev?style=social" alt="
 src="https://img.shields.io/github/last-commit/crazychickendev/CrazyChickenDev" alt="crazychickendev" /> <img
 src="https://img.shields.io/twitter/follow/crazychickendev?label=Follow%20me&style=social" alt="crazychickendev" /> </p>
 
-- 🔭 I’m currently working on making the world a better place...:smiling_imp:
+- 🔭 I’m currently working on **making the world a better place**...:smiling_imp:
 
 - 🌱 I’m currently learning **React, Node.Js and DevOps with Azure**
 
