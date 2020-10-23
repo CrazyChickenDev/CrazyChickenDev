@@ -22,8 +22,16 @@ src="https://img.shields.io/twitter/follow/crazychickendev?label=Follow%20me&sty
 - ⚡ Fun fact **I love music:headphones: and dogs:dog:**
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ffc200"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffc200"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/> <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffc200"/> <img 
-src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ffc200"/> 
+<p align="center"> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ffc200"/> <img src="https://img.shields.io/badge/Framework-bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=ffc200"/> <img src="https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=ffc200"/> <img 
+src="https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c++&logoColor=white&color=ffc200"/> <img 
+src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=ffc200"/> <img 
+src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=ffc200"/> <img 
+src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=ffc200"/> <img 
+src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffc200"/> <img 
+src="https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodejs&logoColor=white&color=ffc200"/> <img 
+src="https://img.shields.io/badge/Code-GatsbyJS-informational?style=flat&logo=gatsbyjs&logoColor=white&color=ffc200"/><img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=ffc200"/> <img 
+src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ffc200"/> <img 
+src="https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=ffc200"/>
 </p> 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
