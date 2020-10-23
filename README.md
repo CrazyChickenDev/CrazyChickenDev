@@ -27,11 +27,15 @@ src="https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c++
 src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=ffc200"/> <img 
 src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=ffc200"/> <img 
 src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=ffc200"/> <img 
-src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffc200"/> <img 
+src="https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffc200"/> <img 
 src="https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodejs&logoColor=white&color=ffc200"/> <img 
 src="https://img.shields.io/badge/Code-GatsbyJS-informational?style=flat&logo=gatsbyjs&logoColor=white&color=ffc200"/><img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=ffc200"/> <img 
+src="https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=ffc200"/> <img 
+src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ffc200"/><img 
 src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ffc200"/> <img 
-src="https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=ffc200"/>
+src="https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=ffc200"/> <img 
+src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vscode&logoColor=white&color=ffc200"/> <img 
+src="https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=git&logoColor=white&color=ffc200"/>
 </p> 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
