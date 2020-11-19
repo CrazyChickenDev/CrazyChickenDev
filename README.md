@@ -17,7 +17,7 @@ src="https://img.shields.io/twitter/follow/crazychickendev?label=Follow%20me&sty
 
 - 💬 Ask me about **Gadgets, Android Rom Development, JavaScript, Embedded Systems, Robotics and Cyber-Security**
 
-- 📫 You can reach me **[here](dannychukz15@gmail.com)**
+- 📫 You can reach me **[here](mailto:dannychukz15@gmail.com)**
 
 - ⚡ Fun fact **I love music:headphones: and dogs:dog:**
 
