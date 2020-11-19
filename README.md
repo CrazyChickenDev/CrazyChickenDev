@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=crazychickendev&logoColor=white&color=ffc200" alt="crazychickendev" /> <img
 src="https://img.shields.io/github/followers/crazychickendev?style=social" alt="crazychickendev" /> <img
 src="https://img.shields.io/github/last-commit/crazychickendev/CrazyChickenDev" alt="crazychickendev" /> <img
-src="https://img.shields.io/twitter/follow/crazychickendev?label=Follow%20me&style=social" alt="crazychickendev" /> </p>
+src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=social" alt="0x00CCSec" /> </p>
 
 - 🔭 I’m currently working on **making the world a better
   place**...:smiling_imp:
