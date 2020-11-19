@@ -5,17 +5,20 @@ src="https://img.shields.io/github/followers/crazychickendev?style=social" alt="
 src="https://img.shields.io/github/last-commit/crazychickendev/CrazyChickenDev" alt="crazychickendev" /> <img
 src="https://img.shields.io/twitter/follow/crazychickendev?label=Follow%20me&style=social" alt="crazychickendev" /> </p>
 
-- 🔭 I’m currently working on **making the world a better place**...:smiling_imp:
+- 🔭 I’m currently working on **making the world a better
+  place**...:smiling_imp:
 
 - 🌱 I’m currently learning **React, Node.Js and DevOps with Azure**
 
 - 👯 I’m looking to collaborate on **any interesting project on IoT**
 
-- 🤔 I’m looking for help with **Pentesting and Security Research Techniques:tired_face:**
+- 🤔 I’m looking for help with **Pentesting and Security Research
+  Techniques:tired_face:**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://nwaobidaniel.me)
 
-- 💬 Ask me about **Gadgets, Android Rom Development, JavaScript, Embedded Systems, Robotics and Cyber-Security**
+- 💬 Ask me about **Gadgets, Android Rom Development, JavaScript, Embedded
+  Systems, Robotics and Cyber-Security**
 
 - 📫 You can reach me **[here](mailto:dannychukz15@gmail.com)**
 
