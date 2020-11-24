@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/CrazyChickenDev.gif" /> </p>
-<h4 align="center">I'm a Computer Software Engineer, CyberSecurity Security Researcher, an aspiring Red-Teamer and Open-source Enthusiast.A Student from Nigeria who loves playing with front-end web tools:sleepy: and i have a kin interest for hacking:thinking: especially offensive...Yeah! I love breaking into stuff</h4>
+<h4 align="center">I'm a Computer Software Engineer, CyberSecurity Security Researcher, an aspiring Red-Teamer, GitHub Campus Expert and Open-source Enthusiast.A Student from Nigeria who loves playing with front-end web tools:sleepy: and i have a kin interest for hacking:thinking: especially offensive...Yeah! I love breaking into stuff</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=crazychickendev&logoColor=white&color=64ffda" alt="crazychickendev" /> <img
 src="https://img.shields.io/github/followers/crazychickendev?style=social" alt="crazychickendev" /> <img
 src="https://img.shields.io/github/last-commit/crazychickendev/CrazyChickenDev" alt="crazychickendev" /> <img
