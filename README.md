@@ -1,30 +1,27 @@
 <p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/CrazyChickenDev.gif" /> </p>
-<h4 align="center">I'm a Computer Software Engineer, Security Researcher, an aspiring Red-Teamer, CyberSecurity and Open-source Enthusiast and a Student from Nigeria. I'm currently learning front-end web development:sleepy: and i have a kin interest for hacking:thinking: especially offensive security...I love breaking into stuff!</h4>
+<h4 align="center">I'm a Computer Software Engineer, CyberSecurity Security Researcher, an aspiring Red-Teamer and Open-source Enthusiast.A Student from Nigeria who loves playing with front-end web tools:sleepy: and i have a kin interest for hacking:thinking: especially offensive...Yeah! I love breaking into stuff</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=crazychickendev&logoColor=white&color=64ffda" alt="crazychickendev" /> <img
 src="https://img.shields.io/github/followers/crazychickendev?style=social" alt="crazychickendev" /> <img
 src="https://img.shields.io/github/last-commit/crazychickendev/CrazyChickenDev" alt="crazychickendev" /> <img
 src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=social" alt="0x00CCSec" /> </p>
 
-- 🔭 I’m currently working on **making the world a better
-  place**...:smiling_imp:
+- 🔭 I’m currently working on building a solid career in the Cyber-security field here in my country...:smiling_imp:
 
 - 🌱 I’m currently learning **React, Node.Js and DevOps with Azure**
 
-- 👯 I’m looking to collaborate on **any interesting project on IoT**
+- 👯 I’m looking to collaborate on any interesting project on IoT, Robotics and Embedded Systems engineering
 
-- 🤔 I’m looking for help with **Pentesting and Security Research
-  Techniques:tired_face:**
+- 🤔 I’m looking for help with **Pentesting and Security Research Techniques**:tired_face:
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://nwaobidaniel.me)
+- 👨‍💻 All of my projects are available at [my personal website](https://nwaobidaniel.me)
 
-- 💬 Ask me about **Gadgets, Android Rom Development, JavaScript, Embedded
-  Systems, Robotics and Cyber-Security**
+- 💬 Ask me about **New Gadgets, Android Rom Development, JavaScript, Robotics, Tech Reviews and Cyber-Ops**
 
 - 📫 You can reach me **[here](mailto:dannychukz15@gmail.com)**
 
-- ⚡ Fun fact **I love music:headphones: and dogs:dog:**
+- ⚡ Fun fact I love **music:headphones**: and **dogs:dog:**
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages, Framework and Tools:</h3>
 <p align="center"> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=64ffda"/> <img src="https://img.shields.io/badge/Framework-bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=64ffda"/> <img src="https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=64ffda"/> <img
 src="https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c++&logoColor=white&color=64ffda"/> <img
 src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=64ffda"/> <img
@@ -43,7 +40,7 @@ src="https://img.shields.io/badge/VersionControl-Git-informational?style=flat&lo
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,CBFFF3,EFFDF9,F2FFFC&count_private=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="crazychickendev"/> </p>
-<h3 align="center">I'm currently listening to</h3>
+<h3 align="center">I'm currently vibing to</h3>
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true" alt="spotify"/></p>
 
 <p align="center">
