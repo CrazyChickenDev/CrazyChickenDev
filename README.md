@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/CrazyChickenDev.gif" /> </p>
 <h4 align="center">I'm a Computer Software Engineer, Security Researcher, an aspiring Red-Teamer, CyberSecurity and Open-source Enthusiast and a Student from Nigeria. I'm currently learning front-end web development:sleepy: and i have a kin interest for hacking:thinking: especially offensive security...I love breaking into stuff!</h4>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=crazychickendev&logoColor=white&color=ffc200" alt="crazychickendev" /> <img
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=crazychickendev&logoColor=white&color=64ffda" alt="crazychickendev" /> <img
 src="https://img.shields.io/github/followers/crazychickendev?style=social" alt="crazychickendev" /> <img
 src="https://img.shields.io/github/last-commit/crazychickendev/CrazyChickenDev" alt="crazychickendev" /> <img
 src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=social" alt="0x00CCSec" /> </p>
