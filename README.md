@@ -39,7 +39,7 @@ src="https://img.shields.io/badge/VersionControl-Git-informational?style=flat&lo
 </p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,CBFFF3,EFFDF9,F2FFFC&count_private=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="crazychickendev"/> </p>
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,EFFDF9,F2FFFC&count_private=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="crazychickendev"/> </p>
 <h3 align="center">I'm currently vibing to</h3>
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true" alt="spotify"/></p>
 
