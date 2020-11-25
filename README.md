@@ -21,7 +21,6 @@ src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=soc
 
 - ⚡ Fun fact I love **music:headphones**: and **dogs:dog:**
 
-<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
 <h3 align="center">Languages, Framework and Tools:</h3>
 <p align="center"> 
   <img alt="React" src="https://img.shields.io/badge/-React-FFDE59?style=flat-square&logo=react&logoColor=white" />
@@ -44,6 +43,7 @@ src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=soc
 <h2 align="center">🏆 Trophies</h2></a>
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=CrazyChickenDev&margin-w=30"/>
 </p>
+<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_private=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="crazychickendev"/> </p>
