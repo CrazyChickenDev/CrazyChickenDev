@@ -1,5 +1,4 @@
 <p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/CrazyChickenDev.gif" /> </p>
-<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
 <h4 align="center">I'm a Computer Engineer:woozy_face:, CyberSecurity Security Researcher:monocle_face:, an aspiring Red-Teamer, GitHub Campus Expert:octocat::triangular_flag_on_post: and Open-source contributor:shushing_face:.A Student from Nigeria:nigeria: who loves playing with front-end web tools:sleepy: and i have a kin interest for hacking:supervillain: especially offensive...Yeah! I love breaking into stuff</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=crazychickendev&logoColor=white&color=FFDE59" alt="crazychickendev" /> <img
 src="https://img.shields.io/github/followers/crazychickendev?style=social" alt="crazychickendev" /> <img
@@ -22,6 +21,7 @@ src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=soc
 
 - ⚡ Fun fact I love **music:headphones**: and **dogs:dog:**
 
+<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
 <h3 align="center">Languages, Framework and Tools:</h3>
 <p align="center"> 
   <img alt="React" src="https://img.shields.io/badge/-React-FFDE59?style=flat-square&logo=react&logoColor=white" />
