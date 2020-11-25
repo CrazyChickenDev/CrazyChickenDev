@@ -4,10 +4,7 @@
 src="https://img.shields.io/github/followers/crazychickendev?style=social" alt="crazychickendev" /> <img
 src="https://img.shields.io/github/last-commit/crazychickendev/CrazyChickenDev" alt="crazychickendev" /> <img
 src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=social" alt="0x00CCSec" /> </p>
-<a href="https://github.com/ryo-ma/github-profile-trophy"> <h2 align="left">🏆 Github Trophies</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 align="center" src="https://github-profile-trophy.vercel.app/?username=CrazyChickenDev&column=7&margin-w=15"/>
-</a>
+<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
 
 - 🔭 I’m currently working on building a solid career in the Cyber-security field here in my country...:smiling_imp:
 
@@ -44,7 +41,9 @@ src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=soc
   <img alt="Linux shell" src="https://img.shields.io/badge/-Linux_Shell-FFDE59?style=flat-square&logo=linux-shell&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-FFDE59?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
+<h2 align="center">🏆 Trophies</h2></a>
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=CrazyChickenDev&margin-w=30"/>
+</p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_private=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="crazychickendev"/> </p>
