@@ -4,6 +4,10 @@
 src="https://img.shields.io/github/followers/crazychickendev?style=social" alt="crazychickendev" /> <img
 src="https://img.shields.io/github/last-commit/crazychickendev/CrazyChickenDev" alt="crazychickendev" /> <img
 src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=social" alt="0x00CCSec" /> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"> <h2 align="left">🏆 Github Trophies</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 align="center" src="https://github-profile-trophy.vercel.app/?username=CrazyChickenDev&column=7&margin-w=15"/>
+</a>
 
 - 🔭 I’m currently working on building a solid career in the Cyber-security field here in my country...:smiling_imp:
 
