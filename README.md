@@ -24,7 +24,7 @@ src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=soc
 
 - 📫 You can reach me **[here](mailto:dannychukz15@gmail.com)**
 
-- ⚡ Fun fact I love **music:headphones**: and **dogs:dog:**
+- ⚡ Fun fact I love **music:headphone:** and **dogs:dog:**
 
 <h3 align="center">🍗 Languages, Framework and Tools:</h3>
 <p align="center">
