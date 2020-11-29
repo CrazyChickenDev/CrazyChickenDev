@@ -27,9 +27,9 @@ src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=soc
 - ⚡ Fun fact I love **music:headphones**: and **dogs:dog:**
 
 <h3 align="center">🍗 Languages, Framework and Tools:</h3>
-<p align="center"> 
+<p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-FFDE59?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-FFDE59?style=flat-square&logo=python&logoColor=white" /> 
+  <img alt="Python" src="https://img.shields.io/badge/-Python-FFDE59?style=flat-square&logo=python&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-FFDE59?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-FFDE59?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-FFDE59?style=flat-square&logo=php&logoColor=white" />
