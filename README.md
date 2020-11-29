@@ -5,26 +5,31 @@ src="https://img.shields.io/github/followers/crazychickendev?style=social" alt="
 src="https://img.shields.io/github/last-commit/crazychickendev/CrazyChickenDev" alt="crazychickendev" /> <img
 src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=social" alt="0x00CCSec" /> </p>
 
-- 🔭 I’m currently working on building a solid career in the Cyber-security field here in my country...:smiling_imp:
+- 🔭 I’m currently working on building a solid career in the Cyber-security
+  field here in my country...:smiling_imp:
 
 - 🌱 I’m currently learning **React, Node.Js and DevOps with Azure**
 
-- 👯 I’m looking to collaborate on any interesting project on IoT, Robotics and Embedded Systems engineering
+- 👯 I’m looking to collaborate on any interesting project on IoT, Robotics and
+  Embedded Systems engineering
 
-- 🤔 I’m looking for help with **Pentesting and Security Research Techniques**:tired_face:
+- 🤔 I’m looking for help with **Pentesting and Security Research
+  Techniques**:tired_face:
 
-- 👨‍💻 All of my projects are available at [my personal website](https://nwaobidaniel.me)
+- 👨‍💻 All of my projects are available at
+  [my personal website](https://nwaobidaniel.me)
 
-- 💬 Ask me about **New Gadgets, Android Rom Development, JavaScript, Robotics, Tech Reviews and Cyber-Ops**
+- 💬 Ask me about **New Gadgets, Android Rom Development, JavaScript, Robotics,
+  Tech Reviews and Cyber-Ops**
 
 - 📫 You can reach me **[here](mailto:dannychukz15@gmail.com)**
 
 - ⚡ Fun fact I love **music:headphones**: and **dogs:dog:**
 
 <h3 align="center">🍗 Languages, Framework and Tools:</h3>
-<p align="center"> 
+<p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-FFDE59?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-FFDE59?style=flat-square&logo=python&logoColor=white" /> 
+  <img alt="Python" src="https://img.shields.io/badge/-Python-FFDE59?style=flat-square&logo=python&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-FFDE59?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-FFDE59?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-FFDE59?style=flat-square&logo=php&logoColor=white" />
@@ -54,7 +59,7 @@ src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=soc
 <a href="https://codepen.io/crazychickendev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="crazychickendev" height="22" width="22" /></a>
 <a href="https://wa.me/2348022273025" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" alt="crazychickendev" height="22" width="22" /></a>
 <a href="https://dev.to/crazychickendev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="crazychickendev" height="22" width="22" /></a>
-<a href="https://twitter.com/crazychickendev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="crazychickendev" height="22" width="22" /></a>
+<a href="https://twitter.com/0x00CCSec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="crazychickendev" height="22" width="22" /></a>
 <a href="https://linkedin.com/in/nwaobi-daniel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nwaobi-daniel" height="22" width="22" /></a>
 <a href="https://stackoverflow.com/users/nwaobi-daniel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="nwaobi-daniel" height="22" width="22" /></a>
 <a href="https://www.reddit.com/user/dannychukz15/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" alt="nwaobi-daniel" height="22" width="22" /></a>
