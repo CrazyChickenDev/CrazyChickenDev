@@ -28,22 +28,22 @@ src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=soc
 
 <h3 align="center">🍗 Languages, Framework and Tools:</h3>
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/-React-FFDE59?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-FFDE59?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-FFDE59?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-FFDE59?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-FFDE59?style=flat-square&logo=php&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFDE59?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-FFDE59?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-FFDE59?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Css" src="https://img.shields.io/badge/-Css-FFDE59?style=flat-square&logo=css&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-FFDE59?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GatsbyJs" src="https://img.shields.io/badge/-GatsbyJs-FFDE59?style=flat-square&logo=gatsbyjs&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-FFDE59?style=flat-square&logo=c++&logoColor=white" />
-  <img alt="Npm" src="https://img.shields.io/badge/-NPM-FFDE59?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-FFDE59?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Linux shell" src="https://img.shields.io/badge/-Linux_Shell-FFDE59?style=flat-square&logo=linux-shell&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-FFDE59?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-64FFDA?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-64FFDA?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-64FFDA?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-64FFDA?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-64FFDA?style=flat-square&logo=php&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-64FFDA?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-64FFDA?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-64FFDA?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Css" src="https://img.shields.io/badge/-Css-64FFDA?style=flat-square&logo=css&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-64FFDA?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GatsbyJs" src="https://img.shields.io/badge/-GatsbyJs-64FFDA?style=flat-square&logo=gatsbyjs&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-64FFDA?style=flat-square&logo=c++&logoColor=white" />
+  <img alt="Npm" src="https://img.shields.io/badge/-NPM-64FFDA?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-64FFDA?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Linux shell" src="https://img.shields.io/badge/-Linux_Shell-64FFDA?style=flat-square&logo=linux-shell&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-64FFDA?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <h2 align="center">🏆 Trophies</h2></a>
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=CrazyChickenDev&margin-w=30"/>
