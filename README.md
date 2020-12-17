@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/CrazyChickenDev.gif" /> </p>
+<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/CrazyChickenDevXmas.mp4" /> </p>
 <h4 align="center">I'm a Computer Engineer:woozy_face:, Cyber-Security Researcher:monocle_face:, an aspiring Red-Teamer, GitHub Campus Expert:octocat::triangular_flag_on_post: and Open-source contributor:shushing_face:.A Student from Nigeria:nigeria: who loves playing with front-end web tools:sleepy: and i have a kin interest for hacking:supervillain: especially offensive...Yeah! I love breaking into stuff</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=crazychickendev&logoColor=white&color=FFDE59" alt="crazychickendev" /> <img
 src="https://img.shields.io/github/followers/crazychickendev?style=social" alt="crazychickendev" /> <img
@@ -60,7 +60,7 @@ src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=soc
 <a href="https://wa.me/2348022273025" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" alt="crazychickendev" height="22" width="22" /></a>
 <a href="https://dev.to/crazychickendev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="crazychickendev" height="22" width="22" /></a>
 <a href="https://twitter.com/0x00CCSec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="crazychickendev" height="22" width="22" /></a>
-<a href="https://linkedin.com/in/nwaobi-daniel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nwaobi-daniel" height="22" width="22" /></a>
+<a href="https://linkedin.com/in/nwaobidaniel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nwaobi-daniel" height="22" width="22" /></a>
 <a href="https://stackoverflow.com/users/nwaobi-daniel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="nwaobi-daniel" height="22" width="22" /></a>
 <a href="https://www.reddit.com/user/dannychukz15/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" alt="nwaobi-daniel" height="22" width="22" /></a>
 <a href="https://t.me/CrazyChickenDev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="crazychickendev" height="22" width="22" /></a>
