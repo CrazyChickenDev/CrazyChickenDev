@@ -33,7 +33,7 @@ const 0x00CCSec = {
 };
 ```
 
-<h3 align="center">Tech Stack, Framework and Tools 🍗:</h3>
+<h3 align="center">Tech Stack 🍗:</h3>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-64FFDA?style=flat-square&logo=react&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-64FFDA?style=flat-square&logo=python&logoColor=white" />
