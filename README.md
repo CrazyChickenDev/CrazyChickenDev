@@ -7,6 +7,7 @@ src="https://img.shields.io/github/followers/crazychickendev?style=social" alt="
 src="https://img.shields.io/github/last-commit/crazychickendev/CrazyChickenDev" alt="crazychickendev" /> <img
 src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=social" alt="0x00CCSec" /> </p>
 
+<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
 
 ```javascript
 const 0x00CCSec = {
@@ -53,7 +54,7 @@ const 0x00CCSec = {
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-64FFDA?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_private=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="crazychickendev"/> </p>
