@@ -55,14 +55,14 @@ src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=soc
 <h3 align="center">🎧 I'm currently vibing to</h3>
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true&theme=compact" alt="spotify"/></p>
 
+
+### Let's Connect :coffee:
 <p align="center">
-<a href="https://codepen.io/crazychickendev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="crazychickendev" height="22" width="22" /></a>
-<a href="https://wa.me/2348022273025" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" alt="crazychickendev" height="22" width="22" /></a>
-<a href="https://dev.to/crazychickendev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="crazychickendev" height="22" width="22" /></a>
-<a href="https://twitter.com/0x00CCSec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="crazychickendev" height="22" width="22" /></a>
-<a href="https://linkedin.com/in/nwaobidaniel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nwaobi-daniel" height="22" width="22" /></a>
-<a href="https://stackoverflow.com/users/nwaobi-daniel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="nwaobi-daniel" height="22" width="22" /></a>
-<a href="https://www.reddit.com/user/dannychukz15/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" alt="nwaobi-daniel" height="22" width="22" /></a>
-<a href="https://t.me/CrazyChickenDev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="crazychickendev" height="22" width="22" /></a>
-<a href="https://instagram.com/crazychickendev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="crazychickendev" height="22" width="22" /></a>
+	<a href="https://github.com/CrazyChickenDev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/nwaobidaniel/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/nielle.knight.3/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/thecanva_shogun"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/0x00CCSec"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://wa.me/2348022273025"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
+  <a href="https://www.reddit.com/user/dannychukz15/"><img src="https://img.icons8.com/bubbles/50/000000/reddit.png" alt="Reddit"/></a>
 </p>
