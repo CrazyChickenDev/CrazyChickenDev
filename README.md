@@ -32,7 +32,6 @@ const 0x00CCSec = {
     }
 };
 ```
-<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/levi.gif" /> </p>
 
 <h3 align="center">Tech Stack, Framework and Tools 🍗:</h3>
 <p align="center">
@@ -54,6 +53,7 @@ const 0x00CCSec = {
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-64FFDA?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/levi.gif" /> </p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
