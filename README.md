@@ -54,7 +54,7 @@ const 0x00CCSec = {
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-64FFDA?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/levi.gif" /> </p>
+<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/tenor.gif" /> </p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
