@@ -31,7 +31,7 @@ const 0x00CCSec = {
     }
 };
 ```
-
+<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/levi.gif" /> </p>
 
 <h3 align="center">Tech Stack, Framework and Tools 🍗:</h3>
 <p align="center">
