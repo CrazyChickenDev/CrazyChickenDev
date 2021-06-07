@@ -1,32 +1,39 @@
 <p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/CrazyChickenDev.gif" /> </p>
-<h4 align="center">I'm a Computer Engineer:woozy_face:, Cyber-Security Researcher:monocle_face:, an aspiring Red-Teamer, GitHub Campus Expert:octocat::triangular_flag_on_post: and Open-source contributor:shushing_face:.A Student from Nigeria:nigeria: who loves playing with front-end web tools:sleepy: and i have a kin interest for hacking:supervillain: especially offensive...Yeah! I love breaking into stuff</h4>
+
+
+<h4 align="center">I'm a Computer Engineer:woozy_face:, Cyber-Security Researcher:monocle_face:, an aspiring Red-Teamer, GitHub Campus Expert:octocat::triangular_flag_on_post: and Open-source contributor:shushing_face:.A Student from Nigeria who loves playing with front-end web tools:sleepy: and i have a kin interest for hacking:supervillain: especially offensive...Yeah! I love breaking into stuff</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=crazychickendev&logoColor=white&color=FFDE59" alt="crazychickendev" /> <img
 src="https://img.shields.io/github/followers/crazychickendev?style=social" alt="crazychickendev" /> <img
 src="https://img.shields.io/github/last-commit/crazychickendev/CrazyChickenDev" alt="crazychickendev" /> <img
 src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=social" alt="0x00CCSec" /> </p>
 
-- 🔭 I’m currently working on building a solid career in the Cyber-security
-  field here in my country...:smiling_imp:
 
-- 🌱 I’m currently learning **React, Node.Js and DevOps with Azure**
+```javascript
+const 0x00CCSec = {
+    pronouns: "he" | "him",
+    location: ["benin city, ng"],
+    contact: ["dannychukz15@gmail.com"],
+    portfolio: ["https://nwaobidaniel.netlify.app"],
+    collaborations: ["IoT", "robotics", "pentesting", "security research techniques", 
+                    "embedded systems engineering"],
+    workingOn: ["building a solid career in the cyber-security field here in my country..."],
+    learning: ["front-End", "web dev", "node.js", "devOps with azure"],
+    askMeAbout: ["emerging trends", "android rom development", "darknet diaries", "robotics", 
+                "tech", "cyber-ops", "crypto", "music"],
+    hobbies: {
+        major: {
+            indoor: ["dancing", "cooking","watching animes", "gaming"],
+	    outdoor: ["traveling", "playing soccer"],
+        },
+        funFact: {
+            secret: ["I freaking love music", "dogs"],
+        }        
+    }
+};
+```
 
-- 👯 I’m looking to collaborate on any interesting project on IoT, Robotics and
-  Embedded Systems engineering
 
-- 🤔 I’m looking for help with **Pentesting and Security Research
-  Techniques**:tired_face:
-
-- 👨‍💻 All of my projects are available at
-  [my personal website](https://nwaobidaniel.me)
-
-- 💬 Ask me about **New Gadgets, Android Rom Development, JavaScript, Robotics,
-  Tech Reviews and Cyber-Ops**
-
-- 📫 You can reach me **[here](mailto:dannychukz15@gmail.com)**
-
-- ⚡ Fun fact I love **music:headphones:** and **dogs:dog:**
-
-<h3 align="center">Languages, Framework and Tools 🍗:</h3>
+<h3 align="center">Tech Stack, Framework and Tools 🍗:</h3>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-64FFDA?style=flat-square&logo=react&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-64FFDA?style=flat-square&logo=python&logoColor=white" />
@@ -45,15 +52,14 @@ src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=soc
   <img alt="Linux shell" src="https://img.shields.io/badge/-Linux_Shell-64FFDA?style=flat-square&logo=linux-shell&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-64FFDA?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<h2 align="center">Trophies 🏆</h2></a>
-<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=CrazyChickenDev&margin-w=30"/>
-</p>
+
 <p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=crazychickendev&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_private=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazychickendev&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="crazychickendev"/> </p>
 <h3 align="center">I'm currently vibing to 🎧</h3>
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true&theme=compact" alt="spotify"/></p>
+
 
 <h2 align="center">Let's Connect :coffee:</h2></a>
 <p align="center">
