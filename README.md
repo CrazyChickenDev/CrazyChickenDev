@@ -6,8 +6,6 @@ src="https://img.shields.io/github/followers/crazychickendev?style=social" alt="
 src="https://img.shields.io/github/last-commit/crazychickendev/CrazyChickenDev" alt="crazychickendev" /> <img
 src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=social" alt="0x00CCSec" /> </p>
 
-<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
-
 ```javascript
 const 0x00CCSec = {
     pronouns: "he" | "him",
@@ -59,7 +57,7 @@ const 0x00CCSec = {
 <h3 align="center">I'm currently vibing to 🎧</h3>
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true&theme=compact" alt="spotify"/></p>
 
-
+<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
 <h2 align="center">Let's Connect :coffee:</h2></a>
 <p align="center">
 	<a href="https://github.com/CrazyChickenDev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
