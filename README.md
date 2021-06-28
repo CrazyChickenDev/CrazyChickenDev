@@ -32,9 +32,9 @@ const 0x00CCSec = {
 
 <h3 align="center">Tech Stack 🍗:</h3>
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/-React-64FFDA?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-64FFDA?style=flat-square&logo=python&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-64FFDA?style=flat-square&logo=php&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-ffb400?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ffb400?style=flat-square&logo=python&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-ffb400?style=flat-square&logo=php&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-64FFDA?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-64FFDA?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-64FFDA?style=flat-square&logo=html5&logoColor=white" />
