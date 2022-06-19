@@ -7,7 +7,7 @@ src="https://img.shields.io/github/last-commit/crazychickendev/CrazyChickenDev" 
 src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=social" alt="0x00CCSec" /> </p>
 
 ```javascript
-const 0x00CCSec = {
+const CrazyChickenDev = {
     pronouns: "he" | "him",
     location: ["benin city, ng"],
     contact: ["dannychukz15@gmail.com"],
